@@ -6,7 +6,7 @@ def my_select(collection)
      if yield(collection[counter])
        rtn_array << collection[counter]
      end
-     counter
+     counter+=1
    end
  end
  rtn_array

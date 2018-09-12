@@ -1,3 +1,4 @@
 def my_select(collection)
- # your code here!
+ counter = 0
+ 
 end
